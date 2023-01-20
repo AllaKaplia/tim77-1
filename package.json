@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "tim77-1",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://AllaKaplia.github.io/tim77-1",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /tim77-1/"
   },
   "repository": {
     "type": "git",
